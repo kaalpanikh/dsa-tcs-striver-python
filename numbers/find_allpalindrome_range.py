@@ -1,5 +1,4 @@
 def is_palindrome(num):
-    # Handle negative numbers (negative numbers are not palindromes)
     if num < 0:
         return False
 
